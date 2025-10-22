@@ -1,27 +1,80 @@
-# [CDV03] Starter CV for Software Development Role
+# [CDV03] Starter CV for Software Development Role  
 
-Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
+## 👤 Personal Information  
+**Name:** Aphiwokuhle Prince Mavimbela  
+**Student Number:** APHMAV_PTO2505_GroupA_Aphiwokuhle-Mavimbela_CDV03  
+**Email:** aphiwokuhlem2223@gmail.com  
+**Phone:** 0710846828  
+**Location:** Western Cape, Cape Town, Milnorton, Brooklyn  
+**LinkedIn:** [www.linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a7](https://www.linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a7)  
 
-## Project Overview
+---
 
-The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
+## 🧾 Project Overview  
+This project is part of the **CodeSpace CDV03 module**, focused on building a **professional resume (CV)** for software development roles.  
+The goal is to create a clear, polished, and professional document that highlights my technical skills, education, and project experience as a Software Development student.  
 
-### Practical Steps for the Project
+This resume is specifically tailored for **front-end and full-stack development roles**, showcasing my growing expertise in web technologies such as **HTML, CSS, JavaScript**, and **React.js**.  
 
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
+---
 
-### Submission Guidelines
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+## 🧩 Resume Contents  
+My resume includes the following sections:  
+- Contact Information  
+- Professional Summary  
+- Education  
+- Technical Skills  
+- Projects (featuring CodeSpace challenges)  
+- Languages  
 
-### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+---
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+## 🧠 Summary  
+I am a passionate and driven **Software Development student** with strong interests in building modern, user-friendly web applications.  
+I have hands-on experience completing multiple CodeSpace challenges, including:  
+- [SDF02] Cat HTML Portfolio  
+- [SDF03] Pets Instagram Profile  
+- [SDF05] Responsive Footer Design  
+- [CDV02] GitHub Profile Project  
+- [SDFPP] Resume Website Project  
+
+I completed my **Matric in 2024** and am continuing to grow my skills in both front-end and back-end technologies.  
+I aim to join a team where I can apply my creativity, problem-solving, and coding knowledge to create real-world solutions.
+
+---
+
+## 🧰 Technical Skills  
+- HTML, CSS, JavaScript  
+- Responsive Design (Flexbox, Grid)  
+- Git and GitHub  
+- Tailwind CSS Basics  
+- React.js Fundamentals  
+- Basic UI/UX Design Principles  
+
+---
+
+## 🎓 Education  
+**Matric Certificate** — Completed in 2024  
+
+---
+
+## 🌍 Languages  
+- English  
+- isiZulu  
+
+---
+
+## 🧑‍💻 Link to My Resume  
+📄 [View My Google Docs Resume](https://docs.google.com/document/d/1ttUwn7UqEoWl1242jXlxKi1O1S021lwGWYT2jzZmgbs/edit?usp=sharing)
+
+---
+
+## 💾 GitHub Project Link  
+[https://github.com/Aphiwo-kuhle/APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF_Resume_Piece.git](https://github.com/Aphiwo-kuhle/APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF_Resume_Piece.git)
+
+---
+
+## ✅ Submission Notes  
+This README serves as the official project documentation for the **[CDV03] Starter CV for Software Development Role**.  
+It contains a direct link to my finalized Google Docs CV, created and formatted for submission according to CodeSpace guidelines.  
+
