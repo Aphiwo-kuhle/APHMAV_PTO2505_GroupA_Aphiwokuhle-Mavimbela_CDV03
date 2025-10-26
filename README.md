@@ -42,6 +42,22 @@ I completed my **Matric in 2024** and am continuing to grow my skills in both fr
 I aim to join a team where I can apply my creativity, problem-solving, and coding knowledge to create real-world solutions.
 
 ---
+💼 Professional Experience
+
+Software Development Student — CodeSpace Academy
+January 2025 – Present
+
+Gaining practical experience in building front-end and full-stack web applications.
+
+Completing structured coding challenges using HTML, CSS, JavaScript, and Tailwind CSS.
+
+Practising version control with Git and GitHub to manage and submit projects.
+
+Working with design tools such as Figma to understand UI/UX principles.
+
+Developing teamwork, problem-solving, and time management skills through independent and collaborative projects.
+
+(This section highlights my ongoing learning experience and growing professional skills as part of my training in software development.)
 
 ## 🧰 Technical Skills  
 - HTML, CSS, JavaScript  
